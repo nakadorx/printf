@@ -1,0 +1,11 @@
+.\" Manpage for Montassar and dorra
+.TH man 3 "17 mar 2020" "0.0.1" "_printf man page"
+.SH NAME
+.B _printf
+.SH Example
+.B _printf("%s", argument_to_print);
+.SH DESCRIPTION
+Printf function is used to print the “character, string, float, integer, octal and hexadecimal values” onto the output screen.
+
+.SH AUTHOR
+Montassar Daimi and Dorra Daly 
